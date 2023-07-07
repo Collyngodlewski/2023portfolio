@@ -5,10 +5,12 @@ function Hero() {
   return (
     <div className="home-page">
       <div className="animated-container">
-        <div className="name">Collyn</div>
-        Frontend Web Developer
+        <div className="name">
+          Bringing the world together{" "}
+          <div className="name"> one site at a time.</div>
+        </div>
       </div>
-      <div className="name">Godlewski</div>
+      {/* <div className="name">Godlewski</div> */}
       <div></div>
     </div>
   );
