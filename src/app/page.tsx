@@ -8,6 +8,7 @@ import "./globals.css";
 import Header from "@/components/header";
 import Help from "./help/page";
 import Hero from "./hero/page";
+import About from "./about/page";
 
 export default function Home() {
   return (
@@ -21,7 +22,7 @@ export default function Home() {
           <Help />
         </section>
         <section id="second">
-          <Help />
+          <About />
         </section>
       </main>
     </>

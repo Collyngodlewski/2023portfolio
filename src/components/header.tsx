@@ -19,6 +19,9 @@ export default function Header() {
                 <div>Contact</div>
               </div>
             </div>
+            <div className="circle small">
+              <p className="circle-text">scroll</p>
+            </div>
           </div>
         </div>
       </nav>
